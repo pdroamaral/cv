@@ -14,7 +14,7 @@ Developer with refactoring habit. Like to learn, teach, help and solve mathemati
 
 # Experience
 
-## <span>**Specialist Developer / Principal Developer** on CVCORP /</span> <span>**Out 2021**</span>
+## <span>**Principal Developer** on CVCORP /</span> <span>**Out 2021**</span>
 
 We are the largest travel group in Latin America.
 
