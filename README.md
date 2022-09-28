@@ -50,7 +50,7 @@ This project is AWS Case on Brasil for Retail Sector.
 - **Cloud**: AWS
 
 
-## <span>**Founder**on NuData / </span> <span>**Set 2018**</span>
+## <span>**Founder** on NuData / </span> <span>**Set 2018**</span>
 
 NuData was born with the goal of creating cognitive services that can be used in the financial market.
 
