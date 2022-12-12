@@ -3,8 +3,6 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <pivoamaral@gmail.com>
-- +55 (11) 93618-2332
 - Sao Paulo / Brazil
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
